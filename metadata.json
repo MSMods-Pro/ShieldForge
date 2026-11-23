@@ -1,0 +1,6 @@
+{
+  "name": "ShieldForge",
+  "description": "Advanced Android APK Protection & Transformation Studio powered by FORGE-X and Adaptive Protection Orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
